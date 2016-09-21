@@ -19,7 +19,7 @@
 
 **EMERGENCE** — from Chaos to Order — by [John Holland](https://www3.beacon-center.org/blog/2015/08/13/passing-of-prof-john-holland-father-of-genetic-algorithms-and-pioneer-in-complex-systems/), inventor of Genetic Algorithms.
 
-![](emergence-cover.png) 
+[![](emergence-cover.png)](https://www.amazon.com/dp/0201149435/)
 
 
 ### Software
