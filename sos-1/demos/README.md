@@ -18,7 +18,7 @@ Three physical / chemical simulations, where simple laws result in emergent patt
 2. Bubbles of different colors attract each other
 
 ![magnetic bubbles](magnetic-bubbles.png)  
-[processing version](processing/magnetic_bubbles) — [p5.js version](p5js/magnetic_bubbles)
+[processing version](processing/magnetic) — [p5.js version](p5js/magnetic)
 
 ## Bouncing Bubbles
 
@@ -27,5 +27,5 @@ Three physical / chemical simulations, where simple laws result in emergent patt
 3. Add gravity
 
 ![bouncing bubbles](bouncing-bubbles.png)  
-[processing version](processing/bouncing_bubbles)
+[processing version](processing/bouncing)
 
