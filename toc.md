@@ -23,12 +23,15 @@ computational systems of their own.
 
 Basic coding skills in p5.js or Processing or Javascript are highly recommended.
 
-## schedule
-
-| TUESDAY               | Self-Organizing Sonification Workshop                            |
-|-----------------------|------------------------------------------------------------------|
-| 09:30 – 11:00         | Intro to [Self-Organization](sos-1)                              |
-| 11:00 – 12:30         | Bottom-Up Dataviz inspired by Physics → [Motiongrams](sos-2)     |  
-| 13:30 – 15:00         | Bottom-Up Dataviz inspired by Biology → [Dataphoresis](sos-3)    |
-| 15:00 – 16:30         | Bottom-Up Dataviz – inspired by Neurons → [Motionmaps](sos-4)    |
-| 16:30 – 18:00         | Towards [Data Sonification](sos-5)                               |
+## workshop schedule
+ 
+|                       |                                                                   |
+|-----------------------|-------------------------------------------------------------------|
+| **MONDAY**            |                                                                   |
+| 16:30 – 18:00         | Intro to [Selforganisation](sos-1) and [Motion Processing](sos-1) |
+| **TUESDAY**           |                                                                   |
+| 11:00 – 12:30         | Bottom-Up Dataviz inspired by Physics → [Motiongrams](sos-2)      |
+| 13:30 – 15:00         | Bottom-Up Dataviz inspired by Biology → [Dataphoresis](sos-3)     |
+| 15:00 – 16:30         | Bottom-Up Dataviz – inspired by Neurons → [Motionmaps](sos-4)     |
+| 16:30 – 18:00         | Towards [Data Sonification](sos-5)                                |
+|                       |                                                                   |
