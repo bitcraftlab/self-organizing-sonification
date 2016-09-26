@@ -196,8 +196,8 @@ function drawGML(GML) {
       var y = map( p.y, 0, 1, ymin, ymax);
 
       // different up-vector
-      //var x = map(float(p.y), 0, 1, xmin, xmax);
-      //var y = map(float(p.x), 1, 0, ymin, ymax);
+      //var x = map(p.y, 0, 1, xmin, xmax);
+      //var y = map(p.x, 1, 0, ymin, ymax);
 
       vertex(x, y);
     }
