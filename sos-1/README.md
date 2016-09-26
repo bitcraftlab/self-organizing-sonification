@@ -150,3 +150,19 @@ A Universal, XML-based, open file format designed to store graffiti motion data.
 
 Various clients for recording and replaying GML have been developed over the years.  
 For our purpose we are mostly interested in [javascript](http://www.graffitimarkuplanguage.com/tag/javascript/) code.
+
+### GML Links
+
+* [GML database](http://000000book.com/) a.k.a. the GML blackbook
+* [blackbook wiki](https://github.com/jamiew/blackbook/wiki)
+* [GML projects](http://www.graffitimarkuplanguage.com/category/projects/)
+
+### GML Apps
+
+* [GML OSX App](http://graffitianalysis.com/downloads/)
+* [GML iPhone App](http://graffitianalysis.com/iphone/)
+* [GML Playa](http://www.graffitimarkuplanguage.com/obama-gml-playa-post/) (Processing)
+
+### GML + p5.js
+I have written a little p5.js sketch that lets you download, parse and display GML files.
+You can find it on the [example page](examples).
