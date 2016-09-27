@@ -28,9 +28,14 @@
  *                                                                                          *
  ********************************************************************************************
  *                                                                                          *
+ *  MONDAY 26. SEPTEMBER 2016                                                               *
+ *                                                                                          *
+ *  16:30 - 18:00   Intro to Self-Organization and Motion Processing                        *
+ *                                                                                          *
+ ********************************************************************************************
+ *                                                                                          *
  *  TUESDAY 27. SEPTEMBER 2016                                                              *
  *                                                                                          *
- *  09:30 - 11:00   Intro to Self-Organization                                              *
  *  11:00 - 12:30   Bottom-Up Dataviz - inspired by Physics : Motiongrams                   *
  *  13:30 - 15:00   Bottom-Up Dataviz - inspired by Biology : Data-Phoresis                 *
  *  15:00 - 16:30   Bottom-Up Dataviz - inspired by Neurons : Motionmaps                    *
