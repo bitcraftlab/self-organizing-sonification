@@ -53,7 +53,7 @@ Based on the kinds of sequences we are processing we can distinguish several kin
 * Binary-Phoresis → cutting based on bit-patterns
 * Symbol-Phoresis → cutting based on symbols and symbol-patterns
 * Alpha-Phoresis → cutting based on letters and letter-patterns
-* Lingu-Phoresis → cutting based on words and word-patterns
+* Lexico-Phoresis → cutting based on words and word-patterns
 
 ## Motion-Phoresis
 
